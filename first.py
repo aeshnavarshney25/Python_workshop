@@ -1,0 +1,6 @@
+user_input=input("enter your name: ")
+course=input("enter your course: ")
+dob=input("enter your date of birth: ")
+print(user_input)
+print(course)
+print(dob)
